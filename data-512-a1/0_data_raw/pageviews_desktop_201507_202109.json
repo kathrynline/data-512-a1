@@ -1,0 +1,1 @@
+{"type": "https://mediawiki.org/wiki/HyperSwitch/errors/invalid_request", "method": "get", "detail": ["end timestamp is invalid, must be a valid date in YYYYMMDD format"], "uri": "/analytics.wikimedia.org/v1/pageviews/aggregate/en.wikipedia.org/desktop/user/monthly/2015070100/20211001000"}
